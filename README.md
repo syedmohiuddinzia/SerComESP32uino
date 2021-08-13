@@ -8,9 +8,6 @@
 ***SYED MOHIUDDIN ZIA***
 ***0092 307 2099300***
 
-# Hardware Image
-![Project Image](https://github.com/syedmohiuddinzia/SerComESP32uino/blob/main/ProjectImage.jpeg)
-
 # REQUIREMENTS
 
 **1. Arduino**  
@@ -24,7 +21,6 @@ In telecommunication and data transmission, serial communication is the process 
 
 **Reference:**
 [Serial Communication](https://en.wikipedia.org/wiki/Serial_communication)
-
 
 # BreadBoard Diagram
 ![BreadBoard Diagram](https://github.com/syedmohiuddinzia/SerComESP32uino/blob/main/ESP32RxTxCom.png)
