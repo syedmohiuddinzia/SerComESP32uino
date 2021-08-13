@@ -1,0 +1,11 @@
+Sender
+
+RxPin	9
+TxPin	13
+ConPin	11
+
+Receiver
+
+RxPin	9
+TxPin	13
+ConPin	11
