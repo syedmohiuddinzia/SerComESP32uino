@@ -1,11 +1,7 @@
 Sender
-
-RxPin	9
-TxPin	13
-ConPin	11
+TxPin	9
+LED Pin 12
 
 Receiver
-
-RxPin	9
-TxPin	13
-ConPin	11
+RxPin	13
+LED Pin 12
