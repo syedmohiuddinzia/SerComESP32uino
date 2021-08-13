@@ -8,8 +8,7 @@
 ***SYED MOHIUDDIN ZIA***
 ***0092 307 2099300***
 
-# REQUIREMENTS
-
+# Requirements
 **1. Arduino**  
 ```
 https://www.arduino.cc/en/software/
